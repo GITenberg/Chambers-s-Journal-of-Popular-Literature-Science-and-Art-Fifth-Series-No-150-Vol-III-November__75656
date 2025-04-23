@@ -1,0 +1,56 @@
+_repo: Chambers-s-Journal-of-Popular-Literature-Science-and-Art-Fifth-Series-No-150-Vol-III-November__75656
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: 'Reading ease score: 67.6 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Journalism/Media/Writing'
+- 'Browsing: Performing Arts/Film'
+gutenberg_issued: '2025-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75656'
+language: en
+pgterms:marc904: https://archive.org/details/chambers-journal-5th-series-vol-03-images
+pgterms:marc905: 20051128110452chambers
+pgterms:marc906: '1853'
+pgterms:marc907: GB
+production_note: Susan Skinner, Eric Hutton and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aEdinburgh :$bWilliam and Robert Chambers, $c1853.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Periodicals'
+- !lcc 'AP'
+- GITenberg
+summary: '"Chambers''s Journal of Popular Literature, Science, and Art, Fifth Series,
+  No. 150" is a periodical publication that includes a variety of content such as
+  articles on literature, science, and art, likely reflecting the interests of readers
+  in the late 19th century. As indicated by its title and style, it belongs to a series
+  aimed at both educating and entertaining the general public. This edition, published
+  in the late 1880s, captures the spirit of the time by addressing topics relevant
+  to the daily lives and intellectual curiosities of its audience.  The content of
+  this issue includes a diverse range of topics, with a notable focus on the dynamics
+  of portable theatre, showcasing itinerant actors and their challenges. It illustrates
+  the struggles of performers who travel from town to town, setting up temporary stages
+  and entertaining local audiences while navigating the precarious nature of their
+  profession. Among the sketches are vivid portrayals of individual characters, such
+  as the ambitious manager and the hard-working actors, each contributing to a rich
+  tableau of life in the performing arts. Additionally, the journal explores stories
+  that touch on personal relationships and social issues, such as the ethical dilemmas
+  faced by characters caught in deceptive circumstances, thereby offering both narrative
+  and moral complexities that would resonate with contemporary readers. (This is an
+  automatically generated summary.)'
+title: Chambers's Journal of Popular Literature, Science, and Art, Fifth Series, No.
+  150, Vol. III, November 13, 1886
+url: http://www.gutenberg.org/ebooks/75656
